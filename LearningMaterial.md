@@ -40,6 +40,7 @@
 
 <h2>Helpful Repositories</h2>
 
+<li><a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a></li>
 <li><a href="https://github.com/saeidshirazi/Awesome-Smart-Contract-Security">Awesome Smart Contract Security</a></li>
 <li><a href="https://github.com/sigp/solidity-security-blog">Solidity Security Blog</a></li>
 <li><a href="https://github.com/crytic/not-so-smart-contracts">Not So Smart Contracts</a></li>
