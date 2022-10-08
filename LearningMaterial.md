@@ -18,7 +18,7 @@
 
 <h3>Solidity</h3>
 
-<li><a href="https://solidity.readthedocs.io/en/v0.5.8/">Solidity - Docs </a> </li>
+<li><a href="https://docs.soliditylang.org/en/v0.8.17/">Solidity - Docs </a> </li>
 <li><a href="https://cryptozombies.io/">CryptoZombies </a></li>
 
 <h2> Challenges / War Games </h2>
