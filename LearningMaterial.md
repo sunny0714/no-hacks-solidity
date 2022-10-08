@@ -37,3 +37,9 @@
 <li><a href="https://blockgeeks.com/guides/underflow-attacks-smart-contracts/">Underflow Attacks </a></li>
 <li><a href="https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620">Predicting Random Numbers</a></li>
 <li><a href="https://github.com/smartdec/classification">Classification of smart contract vulnerabilities</a></li>
+
+<h2>Helpful Repositories</h2>
+
+<li><a href="https://github.com/saeidshirazi/Awesome-Smart-Contract-Security">Awesome Smart Contract Security</a></li>
+<li><a href="https://github.com/sigp/solidity-security-blog">Solidity Security Blog</a></li>
+<li><a href="https://github.com/crytic/not-so-smart-contracts">Not So Smart Contracts</a></li>
