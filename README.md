@@ -48,3 +48,15 @@ This repository contains hacking examples as well as reference links for Solidit
 <li><a href="https://github.com/saeidshirazi/Awesome-Smart-Contract-Security">Awesome Smart Contract Security</a></li>
 <li><a href="https://github.com/sigp/solidity-security-blog">Solidity Security Blog</a></li>
 <li><a href="https://github.com/crytic/not-so-smart-contracts">Not So Smart Contracts</a></li>
+
+<h2>Security Tools & Frameworks</h>
+
+<li><a href="https://github.com/crytic/slither">Slither, the Solidity source analyzer</a></li>
+<li><a href="https://github.com/snyk/cli">Snyk CLI</a></li>
+<li><a href="https://github.com/ConsenSys/mythril">Mythril</a></li>
+<li><a href="https://github.com/crytic/echidna">Echidna: A Fast Smart Contract Fuzzer</a></li>
+<li><a href="https://github.com/smartbugs/smartbugs">SmartBugs: A Framework to Analyze Solidity Smart Contracts</a></li>
+<li><a href="https://github.com/smartdec/smartcheck">SmartCheck</a></li>
+<li><a href="https://github.com/dmuhs/mythx-cli">MythX</a></li>
+<li><a href="https://github.com/nveloso/conkas">Conkas</a></li>
+<li><a href="https://github.com/VeraBE/VeriMan">VeriMan</a></li>
