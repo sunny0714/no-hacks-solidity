@@ -49,7 +49,7 @@ This repository contains hacking examples as well as reference links for Solidit
 <li><a href="https://github.com/sigp/solidity-security-blog">Solidity Security Blog</a></li>
 <li><a href="https://github.com/crytic/not-so-smart-contracts">Not So Smart Contracts</a></li>
 
-<h2>Security Tools & Frameworks</h>
+<h2>Security Tools & Frameworks</h2>
 
 <li><a href="https://github.com/crytic/slither">Slither, the Solidity source analyzer</a></li>
 <li><a href="https://github.com/snyk/cli">Snyk CLI</a></li>
