@@ -48,6 +48,7 @@ This repository contains hacking examples as well as reference links for Solidit
 <li><a href="https://github.com/saeidshirazi/Awesome-Smart-Contract-Security">Awesome Smart Contract Security</a></li>
 <li><a href="https://github.com/sigp/solidity-security-blog">Solidity Security Blog</a></li>
 <li><a href="https://github.com/crytic/not-so-smart-contracts">Not So Smart Contracts</a></li>
+<li><a href="https://github.com/MrToph/replaying-ethereum-hacks">Replaying Ethereum Hacks</a></li>
 
 <h2>Security Tools & Frameworks</h2>
 
